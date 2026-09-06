@@ -93,7 +93,7 @@ git clone https://github.com/priyadarshan996/brazilian-ecommerce-analytics.git
 📸 Dashboard Preview
 Sales & Revenue Overview
 
-![Sales Overview](./dashboard/sales_overview.png)
+![Sales Overview](./dashboard/sales_overview.png%20%282%29.png)
 
 Operations & Logistics Performance
 
