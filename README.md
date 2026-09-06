@@ -81,16 +81,23 @@ Avg Freight = AVERAGE(ecommerce_analysis_ready[freight_value])
 
 ---
 
-## 🚀 How to Run the Project
+🚀 How to Run the Project
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/brazilian-ecommerce-powerbi-dashboard.git
-   ```
-2. Open `dashboard.pbix` in **Power BI Desktop**.
-3. Explore the interactive slicers (`Select State`, `Select Year`) across both tabs.
+1.  Clone this repository:
 
+git clone https://github.com/priyadarshan996/brazilian-ecommerce-analytics.git
+
+2. Open brazilian_ecommerce_dashboard.pbix in Power BI Desktop.
+3. Explore the interactive slicers (Select State, Select Year) across both tabs.
 ---
+📸 Dashboard Preview
+Sales & Revenue Overview
+
+![Sales Overview](./dashboard/sales_overview.png)
+
+Operations & Logistics Performance
+
+![Operations & Logistics](./dashboard/operations_logistics.png)
 
 ## 👤 Author
 - **Priyadarshan Sharma**  
